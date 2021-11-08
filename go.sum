@@ -1,0 +1,6 @@
+github.com/cultureamp/gocampers/jwt v0.0.0-20211108051108-8c72c331144a h1:++EEcBcL6WE1ULKIdu9iUc/XZo2RI+pb8r7Px5r/2Eo=
+github.com/cultureamp/gocampers/jwt v0.0.0-20211108051108-8c72c331144a/go.mod h1:TXKFi3O4hRr1k00GXmueGH43L2n0ziROowaRD9jwYF4=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
+github.com/go-errors/errors v1.4.1 h1:IvVlgbzSsaUNudsw5dcXSzF3EWyXTi5XrAdngnuhRyg=
+github.com/go-errors/errors v1.4.1/go.mod h1:sIVyrIiJhuEF+Pj9Ebtd6P/rEYROXFi3BopGUQ5a5Og=

@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/cultureamp/glamplify/jwt"
+	"github.com/cultureamp/gocampers/jwt"
 	"github.com/stretchr/testify/assert"
 )
 

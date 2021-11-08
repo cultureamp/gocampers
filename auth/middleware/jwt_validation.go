@@ -2,12 +2,12 @@ package middleware
 
 import (
 	"context"
-	"gocampers/auth"
+	"github.com/cultureamp/gocampers/auth"
+	"github.com/cultureamp/gocampers/log"
 	"net/http"
 	"strings"
 
-	"github.com/cultureamp/glamplify/jwt"
-	"github.com/cultureamp/glamplify/log"
+	"github.com/cultureamp/gocampers/jwt"
 )
 
 // Decoder describes the contract required to decode a JWT token

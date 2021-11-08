@@ -3,7 +3,7 @@ package auth
 import (
 	"context"
 
-	"github.com/cultureamp/glamplify/jwt"
+	"github.com/cultureamp/gocampers/jwt"
 )
 
 type payloadContextKey string

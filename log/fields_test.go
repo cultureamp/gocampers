@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cultureamp/glamplify/log"
+	"github.com/cultureamp/gocampers/log"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,12 +3,12 @@ package middleware
 import (
 	"context"
 	"errors"
-	"gocampers/auth"
+	"github.com/cultureamp/gocampers/auth"
 	"net/http"
 	"net/http/httptest"
 	"testing"
 
-	"github.com/cultureamp/glamplify/jwt"
+	"github.com/cultureamp/gocampers/jwt"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
