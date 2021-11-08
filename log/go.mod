@@ -1,4 +1,4 @@
-module github.com/cultureamp/glamplify/log
+module github.com/cultureamp/gocampers/log
 
 go 1.17
 
