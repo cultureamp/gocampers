@@ -1,3 +1,3 @@
-module gocampers
+module github.com/cultureamp/gocampers
 
 go 1.17

@@ -1,4 +1,4 @@
-module gocampers/auth
+module github.com/cultureamp/gocampers/auth
 
 go 1.17
 

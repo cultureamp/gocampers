@@ -1,4 +1,4 @@
-module glamplify/log
+module github.com/cultureamp/glamplify/log
 
 go 1.17
 
